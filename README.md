@@ -1,6 +1,9 @@
 # ApkMessenger
 解析apk  
 
+v4.0更新的功能：  
+1.支持解析ipa文件  
+
 v3.4更新的功能：  
 1.支持解析任意文件md5和sha1  
 
