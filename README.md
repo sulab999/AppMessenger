@@ -1,6 +1,9 @@
 # ApkMessenger
 解析apk  
-下载地址：https://github.com/sulab999/ApkMessenger/blob/master/apkmsg4.0.rar
+下载地址：https://github.com/sulab999/ApkMessenger/blob/master/apkmsg4.1.rar
+
+v4.1更新的功能：  
+1.加入了更新机制  
 
 v4.0更新的功能：  
 1.支持解析ipa文件  
