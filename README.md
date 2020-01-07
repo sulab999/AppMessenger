@@ -1,8 +1,14 @@
 # ApkMessenger
 解析apk  
-下载地址：https://github.com/sulab999/ApkMessenger/releases/download/v4.2/apkmsg4.2.rar
+下载地址：https://github.com/sulab999/ApkMessenger/releases/download/v4.3/apkmsg4.3.rar
 
 后期更新版本见releases
+
+v4.3更新的功能：  
+1.增加新的加固特征 
+
+v4.2更新的功能：  
+1.优化加固特征 
 
 v4.1更新的功能：  
 1.加入了更新机制  
