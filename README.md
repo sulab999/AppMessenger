@@ -4,7 +4,7 @@
 
 后期更新版本见releases
 
-![图片](https://github.com/sulab999/ApkMessenger/blob/master/apkmsg.png "apkmsg")
+![图片](https://gitee.com/Su-Lab/tootl/blob/master/picture/apkmsg.png "apkmsg")
 
 v4.4更新的功能：  
 1.支持mac系统，针对mac系统进行了相关优化 
