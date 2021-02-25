@@ -1,13 +1,16 @@
 # ApkMessenger
 解析apk  
-下载地址：https://github.com/sulab999/ApkMessenger/releases/download/v4.4/apkmsg4.4.rar
+下载地址：https://github.com/sulab999/ApkMessenger/releases/download/v4.4.1/apkmsg4.4.1.rar
 
 后期更新版本见releases
 
 ![图片](https://gitee.com/Su-Lab/tootl/raw/master/picture/apkmsg.png "apkmsg")
 
+v4.4.1更新的功能：  
+1.优化证书解析，支持DSA证书类型 
+
 v4.4更新的功能：  
-1.支持mac系统，针对mac系统进行了相关优化 
+1.支持mac系统，针对mac系统进行了相关优化(Mac系统需要chmod 777 aapt) 
 
 v4.3更新的功能：  
 1.增加新的加固特征 
