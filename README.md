@@ -5,7 +5,7 @@
 后期更新版本见releases
 
 ![图片](https://gitee.com/Su-Lab/tootl/raw/master/picture/apkmsg.png "apkmsg")
-
+![TAIJI](https://github.com/sulab999/Taichi/blob/main/webchat.png)
 v4.4.1更新的功能：  
 1.优化证书解析，支持DSA证书类型 
 
