@@ -6,6 +6,13 @@
 
 ![图片](https://gitee.com/Su-Lab/tootl/raw/master/picture/apkmsg.png "apkmsg")
 ![TAIJI](https://github.com/sulab999/Taichi/blob/main/webchat.png)
+v4.5.1更新的功能：  
+1、增加allowBackup和debuggable检测  
+ 
+v4.5更新的功能：  
+1、优化代码结构，采用不依赖aapt方案  
+2、基于java11编译，优化java9读取打包时间出错的bug  
+
 v4.4.1更新的功能：  
 1.优化证书解析，支持DSA证书类型 
 
