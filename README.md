@@ -1,11 +1,16 @@
 # ApkMessenger
 解析apk  
-下载地址：https://github.com/sulab999/ApkMessenger/releases/download/v4.5.1/apkmsg4.5.1.zip
+下载地址：https://github.com/sulab999/ApkMessenger/releases/download/v4.6/apkmsg4.6.zip
 
 后期更新版本见releases
 
 ![图片](https://gitee.com/Su-Lab/tootl/raw/master/picture/apkmsg.png "apkmsg")
-![TAIJI](https://github.com/sulab999/Taichi/blob/main/webchat.png)
+![TAIJI](https://github.com/sulab999/Taichi/blob/main/webchat.png)  
+v4.6更新的功能：  
+1、增加SDK检测  
+2、优化加固特征  
+3、优化任意文件md5检测  
+
 v4.5.1更新的功能：  
 1、增加allowBackup和debuggable检测  
  
