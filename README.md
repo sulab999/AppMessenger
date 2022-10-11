@@ -4,7 +4,7 @@
 
 后期更新版本见releases
 
-![图片](https://github.com/sulab999/ApkMessenger/blob/master/test2.png "apkmsg2")
+![图片](https://github.com/sulab999/ApkMessenger/blob/master/test3.png "apkmsg2")
 
 ![TAIJI](https://github.com/sulab999/Taichi/blob/main/webchat.png)  
 v4.6更新的功能：  
