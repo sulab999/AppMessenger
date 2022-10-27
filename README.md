@@ -16,7 +16,8 @@
 - 新的功能或者需求会持续进行开发，欢迎提BUG。
 - 后期更新版本见releases
 
-![TAIJI](https://github.com/sulab999/Taichi/blob/main/webchat.png)  
+![webchat](https://github.com/sulab999/Taichi/blob/main/webchat.png)  
+![zsxq](https://github.com/sulab999/ApkMessenger/blob/master/zsxq.jpg)
 
 # 适用场景
 - APP病毒分析
