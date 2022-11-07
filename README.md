@@ -1,6 +1,6 @@
 # AppMessenger
 
-下载地址：https://github.com/sulab999/ApkMessenger/releases/download/v4.6.2/apkmsg4.6.2.zip
+下载地址：https://github.com/sulab999/AppMessenger/releases/download/v4.6.2/apkmsg4.6.2.zip
 
 
 # 介绍
@@ -41,7 +41,10 @@
 - App文件解析需要使用JAVA环境,JAVA版本11及以上
 
 # 使用方法
-直接将APP拖入即可自动识别
+1、如有java环境，可双击apkmsg.jar，即可启动，直接将APP拖入即可自动识别  
+2、如果无法打开或显示有乱码，可下载配套的jdk11，运行里面写好的脚本，即可一键启动  
+jdk11：https://github.com/sulab999/AppMessenger/releases/download/v4.6.2/jdk11.zip  
+![start](https://github.com/sulab999/AppMessenger/blob/master/pic/start.png) 
 
 ![webchat](https://github.com/sulab999/Taichi/blob/main/webchat.png)  
 ![zsxq](https://github.com/sulab999/ApkMessenger/blob/master/zsxq.jpg)
