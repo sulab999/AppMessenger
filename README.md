@@ -46,9 +46,10 @@
 jdk11：https://github.com/sulab999/AppMessenger/releases/download/v4.6.2/jdk11.zip  
 ![start](https://github.com/sulab999/AppMessenger/blob/master/pic/start.png) 
 
-![webchat](https://github.com/sulab999/Taichi/blob/main/webchat.png)  
+# 感谢“移动安全”知识星球的小伙伴，双十一期间加入有惊喜哦
 ![zsxq](https://github.com/sulab999/AppMessenger/blob/master/pic/jqr.png)
-
+# 不温不火的公众号  
+![webchat](https://github.com/sulab999/Taichi/blob/main/webchat.png)  
 # 免责声明
 请勿将本项目技术或代码应用在恶意软件制作、软件著作权/知识产权盗取或不当牟利等非法用途中。实施上述行为或利用本项目对非自己著作权所有的程序进行数据嗅探将涉嫌违反《中华人民共和国刑法》第二百一十七条、第二百八十六条，《中华人民共和国网络安全法》《中华人民共和国计算机软件保护条例》等法律规定。本项目提及的技术仅可用于私人学习测试等合法场景中，任何不当利用该技术所造成的刑事、民事责任均与本项目作者无关。
 
