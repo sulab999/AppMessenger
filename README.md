@@ -43,8 +43,11 @@
 # 使用方法
 1、如有java环境，可双击apkmsg.jar，即可启动，直接将APP拖入即可自动识别  
 2、如果无法打开或显示有乱码，可下载配套的jdk11，运行里面写好的脚本，即可一键启动  
+3、MAC和Linux系统需要对运行脚本和JAVA_HOME里的文件授予可执行权限，命令如下  
+chmod 777 运行mac/运行linux.sh  
+chmod -R 777 JAVA_HOME   
 jdk11：https://github.com/sulab999/AppMessenger/releases/download/v4.6.2/jdk11.zip  
-![start](https://github.com/sulab999/AppMessenger/blob/master/pic/start.png) 
+![start](https://github.com/sulab999/AppMessenger/blob/master/pic/start.png)   
 
 # 感谢“移动安全”知识星球的小伙伴，双十一期间加入有惊喜哦
 ![zsxq](https://github.com/sulab999/AppMessenger/blob/master/pic/jqr.png)
