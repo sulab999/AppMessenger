@@ -49,7 +49,7 @@ chmod -R 777 JAVA_HOME
 jdk11：https://github.com/sulab999/AppMessenger/releases/download/v4.6.2/jdk11.zip  
 ![start](https://github.com/sulab999/AppMessenger/blob/master/pic/start.png)   
 
-# 感谢“移动安全”知识星球的小伙伴，双十一期间加入有惊喜哦
+# 感谢“移动安全”知识星球的小伙伴，欢迎加入
 ![zsxq](https://github.com/sulab999/AppMessenger/blob/master/pic/jqr.png)
 # 不温不火的公众号  
 ![webchat](https://github.com/sulab999/Taichi/blob/main/webchat.png)  
