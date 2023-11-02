@@ -7,8 +7,10 @@
 解析APP  
 一款适用于以APP病毒分析、APP漏洞挖掘、APP开发、HW行动/红队/渗透测试团队为场景的移动端(Android、iOS)辅助分析工具，可以帮助APP开发工程师、病毒分析师、漏洞/安全研究员提高工作效率，帮助渗透测试工程师、攻击队成员/红队成员快速收集到移动端中关键的资产信息并提供基本的信息输出,如：包名（packageName）、版本(versionName\versionCode)、应用签名(Signature)、文件MD5、SDK、URL、APP漏洞等信息。  
 
-APK文件
-![图片](https://github.com/sulab999/AppMessenger/blob/master/pic/free.png "apkmsg2")
+APK文件  
+<img src="https://github.com/sulab999/AppMessenger/blob/master/pic/pic1.png" width="300px">
+<img src="https://github.com/sulab999/AppMessenger/blob/master/pic/pic2.png" width="300px">
+<img src="https://github.com/sulab999/AppMessenger/blob/master/pic/pic3.png" width="300px">
 
 IPA文件  
 <img src="https://github.com/sulab999/AppMessenger/blob/master/pic/ipa1.png" width="500px">
