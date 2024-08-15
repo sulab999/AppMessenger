@@ -1,7 +1,8 @@
 # AppMessenger(appmsg)
 
-下载地址：https://github.com/sulab999/AppMessenger/releases/download/v4.6.3/appmsg4.6.3.zip
+免费版下载地址：https://github.com/sulab999/AppMessenger/releases/download/v4.6.3/appmsg4.6.3.zip
 
+最新版见releases
 
 # 介绍
 ## 解析APP  
