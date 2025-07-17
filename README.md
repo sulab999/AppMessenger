@@ -27,7 +27,7 @@
 <img src="https://github.com/sulab999/AppMessenger/blob/master/pic/gaoji3.png" width="500px">
 
 # 前言
-- 本项目始于SULAB安全团队，并联合知识星球：移动安全
+- 本项目始于SULAB安全团队，并联合知识星球：移动安全、大数据安全技术学习
 - 如果您觉得这个项目对您有用，请点击本项目右上角的"star"按钮。
 - 如果您想持续跟进新的版本情况，请点击本项目右上角的"Watch"按钮。
 - 会在知识星球发布内测或特别版
@@ -75,6 +75,8 @@ jdk11：https://github.com/sulab999/AppMessenger/releases/download/v4.6.2/jdk11.
 
 # 感谢“移动安全”知识星球的小伙伴，欢迎进群
 ![zsxq](https://github.com/sulab999/AppMessenger/blob/master/pic/kefu.jpg)
+# 感谢“大数据安全技术学习”知识星球的小伙伴，欢迎加入
+![dashuju](https://github.com/sulab999/AppMessenger/blob/master/pic/dashuju.jpg)
 # 不温不火的公众号  
 ![webchat](https://github.com/sulab999/Taichi/blob/main/webchat.png)  
 # 免责声明
