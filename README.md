@@ -21,10 +21,14 @@
 <img src="https://github.com/sulab999/AppMessenger/blob/master/pic/hap1.png" width="500px">
 <img src="https://github.com/sulab999/AppMessenger/blob/master/pic/hap2.png" width="500px">
 
+## 检测文档生成
+<img src="https://github.com/sulab999/AppMessenger/blob/master/pic/gj4.png" width="500px">
+<img src="https://github.com/sulab999/AppMessenger/blob/master/pic/gj5.png" width="500px">
+
 ## 高级检测(目前只支持APK)  
 <img src="https://github.com/sulab999/AppMessenger/blob/master/pic/gj1.png" width="500px">
 <img src="https://github.com/sulab999/AppMessenger/blob/master/pic/gj2.png" width="500px">
-<img src="https://github.com/sulab999/AppMessenger/blob/master/pic/gaoji3.png" width="500px">
+<img src="https://github.com/sulab999/AppMessenger/blob/master/pic/gj3.png" width="500px">
 
 # 前言
 - 本项目始于SULAB安全团队，并联合知识星球：移动安全、大数据安全技术学习
